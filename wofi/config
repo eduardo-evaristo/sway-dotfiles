@@ -1,0 +1,6 @@
+mode=drun
+allow_images=false
+image_size=32
+width=40%
+prompt=
+content_halign=end
